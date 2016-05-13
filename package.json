@@ -1,0 +1,25 @@
+{
+  "name": "react-headline",
+  "version": "0.0.0",
+  "description": "A responsive React Component that helps you to make scalable headlines",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l-pan/react-headline.git"
+  },
+  "keywords": [
+    "react",
+    "headline",
+    "fittext",
+    "responsive"
+  ],
+  "author": "Lawrence Pan <lawrencefeipan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l-pan/react-headline/issues"
+  },
+  "homepage": "https://github.com/l-pan/react-headline#readme"
+}
