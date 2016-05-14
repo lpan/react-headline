@@ -1,4 +1,5 @@
 .c9/
+build/
 # Logs
 logs
 *.log
